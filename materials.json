@@ -1,0 +1,38 @@
+{
+    "Raiden Shogun": {
+      "materials": {
+        "Handguards": 168,
+          "Crystallized Gems": 66,
+          "Sakura Bloom": 168,
+      },
+      "Talent_books": {
+        "Teachings of Elegance": 9,
+        "Guide to Elegance": 13,
+        "Philosophies of Elegance": 6
+      }
+    },
+  "Nahida": {
+    "materials": {
+        "Handguards": 168,
+          "Crystallized Gems": 66,
+          "Kalpalata Lotus": 168,
+      },
+      "Talent_books": {
+        "Teachings of Dilligence": 9,
+        "Guide to Dilligence": 13,
+        "Philosophies of Dilligence": 6
+      }
+  },
+  "Zhongli": {
+     "materials": {
+        "Handguards": 168,
+          "Crystallized Gems": 66,
+          "Cor Lapis": 168,
+      },
+      "Talent_books": {
+        "Teachings of Dilligence": 9,
+        "Guide to Dilligence": 13,
+        "Philosophies of Dilligence": 6
+      }
+  }
+}
