@@ -18,4 +18,11 @@ def calculate_materials():
   print("-- :flower: Genshin Impact Material Calculator :flower: --")
   print("Available Characters:", ", ".join(data.keys()))
 
+      # Character Selection
+      char_name = input("\nEnter character name: ").strip()
+      if char_name not in data:
+         print("Character not found!")
+         return
+
+
   
