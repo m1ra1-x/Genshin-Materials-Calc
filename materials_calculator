@@ -1,0 +1,21 @@
+import json
+import os
+
+def load_data():
+   """load character material data from JSON."""
+   try:
+     with open ('materials.json', 'r') as file:
+       return json.load(file)
+    except FileNotFoundError:
+      print("Error: materials.json not found.")
+      return None
+
+def calculate_materials():
+  data = load_data()
+  if not data:
+    return
+
+  print("-- Genshin Impact Material Calculator --")
+  print("Available Characters:", ", ".join(data.keys()))
+
+  
