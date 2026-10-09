@@ -4,3 +4,8 @@ Genshin Impact Material Calculator
 
 This is my lightweight CLI tool designed to help Genshin Impact players calculate the remaining ascension and Talent materials required for 90.
 
+Help with tedious material farming. This removes the guesswork by calculating the exact numbers of materials needed based on character's current level, allowing more effective resin usage. 
+
+* Calculates remaining resources based on 1-90 progression
+* Tracks both Ascension and Talent books
+
