@@ -15,7 +15,7 @@ def calculate_materials():
   if not data:
     return
 
-  print("-- Genshin Impact Material Calculator --")
+  print("-- :flower: Genshin Impact Material Calculator :flower: --")
   print("Available Characters:", ", ".join(data.keys()))
 
   
