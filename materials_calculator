@@ -24,5 +24,37 @@ def calculate_materials():
          print("Character not found!")
          return
 
+      # Get Current Level
+      try:
+         current_lvl - int(input("Enter current character level (1-90): "))
+         if not (1 <= current_lvl <= 90):
+            print("Please enter a level between 1-90")
+            return
+      except ValueError:
+            print("Invalid input. Enter a level between 1-90")
+            Return
 
-  
+
+      # Calculate Progress %
+      progress_pct = current_lvl / 90
+      remaining_pct = 1 - progress_pct
+
+      char_info = data[char_name]
+
+      print(f"\n Materials needed to get {char_name] from lvl [current_lvl] to 90")
+
+      print("\n[Ascension Materials]")
+      for item, total in char_info['materials'].itmes():
+         needed = round(total * remaining_pct)
+         print(f"- {item}" {needed} (Total required: {total})")
+
+      print("\n[Talent Books]")
+      for book, total in char_info['talent books'].items():
+         needed = round(total * remaining_pct)
+         print(f"- {book}: {needed} (Total required: {total})")
+
+         print ("Good luck farming!:heart:")
+
+   if _name_ == "_main_":
+      calculate_materials()
+
