@@ -14,3 +14,5 @@ Clone the repo:
 git clone https://github.com/m1ra1-x/Genshin-Materials-Calc
 cd Genshin-Materials-calc
 ```
+** Ensure ` materials.json ` in file **
+
