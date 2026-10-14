@@ -10,5 +10,5 @@ Help with tedious material farming. This removes the guesswork by calculating th
 * Tracks both Ascension and Talent books
 
 Clone the repo:
-  ```git clone https://github.com/m1ra1-x/Genshin-Materials-Calc
-  cd Genshin-Materials-calc```
+  ``` git clone https://github.com/m1ra1-x/Genshin-Materials-Calc
+  cd Genshin-Materials-calc ```
