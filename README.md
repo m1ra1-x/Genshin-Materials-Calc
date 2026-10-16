@@ -21,3 +21,4 @@ cd Genshin-Materials-calc
 - Enter character name (ex ` Raiden Shogun `)
 - Enter current level (ex `60 `)
 - Script will output formatted list of remaining materials to reach 90
+
