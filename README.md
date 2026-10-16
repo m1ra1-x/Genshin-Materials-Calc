@@ -1,6 +1,6 @@
 Genshin Impact Material Calculator WORK IN PROGRESS PLZ WAIT :c
 
-*FOR NEERA_2*
+*FOR NEERA_2* :heart:
 
 <img width="417" height="406" alt="RSchib" src="https://github.com/user-attachments/assets/4c0ffa3d-ab88-4313-985d-010374408bd6" />
 
